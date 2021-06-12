@@ -20,6 +20,8 @@ because only the minimum of E is taken into
 account - reformulate the corner measure to make use of
 the variation of E with the direction of shift.
 
+# References
+https://drive.google.com/viewerng/viewer?url=http://www.bmva.org/bmvc/1988/avc-88-023.pdf
 
 
 ![alt text](demo.gif)
