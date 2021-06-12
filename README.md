@@ -2,7 +2,7 @@
 Implementation of the paper "A COMBINED CORNER AND EDGE DETECTOR"
 
 The Moravec
-operator suffers from a number of problems; these are
+corner detector suffers from a number of problems; these are
 listed below, together with appropriate corrective
 measures:
 
