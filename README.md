@@ -23,7 +23,7 @@ the variation of E with the direction of shift.
 Article: https://thanifbutt.medium.com/corner-and-edge-detection-6066fda0718f
 
 # References
-https://drive.google.com/viewerng/viewer?url=http://www.bmva.org/bmvc/1988/avc-88-023.pdf
+https://www.bmva-archive.org.uk/bmvc/1988/avc-88-023.pdf
 
 
 ![alt text](demo.gif)
