@@ -20,8 +20,6 @@ because only the minimum of E is taken into
 account - reformulate the corner measure to make use of
 the variation of E with the direction of shift.
 
-Article: https://thanifbutt.medium.com/corner-and-edge-detection-6066fda0718f
-
 # References
 https://www.bmva-archive.org.uk/bmvc/1988/avc-88-023.pdf
 
